@@ -20,9 +20,9 @@ Click the "Fork" button at the top right corner of this repository to create you
 
 Now, you need to clone your forked repository to your local machine. Open your terminal (or command prompt) and run the following command, replacing `<your-github-username>` with your actual GitHub username:
 
-```bash
+`bash
 git clone https://github.com/<your-github-username>/hacktoberfest-html-starter.git
-```
+`
 
 This will create a local copy of the repository on your computer.
 
